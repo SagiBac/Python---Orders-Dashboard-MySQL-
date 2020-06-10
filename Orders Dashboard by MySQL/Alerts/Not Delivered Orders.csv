@@ -1,0 +1,11 @@
+Order,Status,RequiredDate,Comments,Order Amount
+10334,On Hold,2004-11-28,The outstaniding balance for this customer exceeds their credit limit. Order will be shipped when a payment is received.,23014.17
+10401,On Hold,2005-04-14,Customer credit limit exceeded. Will ship when a payment is received.,43525.04
+10407,On Hold,2005-05-04,Customer credit limit exceeded. Will ship when a payment is received.,52229.55
+10414,On Hold,2005-05-13,Customer credit limit exceeded. Will ship when a payment is received.,50806.85
+10420,In Process,2005-06-07,,42251.51
+10421,In Process,2005-06-06,Custom shipping instructions were sent to warehouse,7639.10
+10422,In Process,2005-06-11,,5849.44
+10423,In Process,2005-06-05,,8597.73
+10424,In Process,2005-06-08,,29310.30
+10425,In Process,2005-06-07,,41623.44
